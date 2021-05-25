@@ -1,1 +1,56 @@
+.navegador ul {
+
+  list-style: none;
+
+}
+
+.menu>li {
+
+  /*position: relative;*/
+
+  display: inline-block;
+
+}
+
+.menu>li>a{ 
+  margin-top: 23px;
+ margin-left:10px;
+text-align: center;
+  display: block;
+
+  padding: 15px 20px;
+
+  color: #000000;
+
+  font-family: "Open sans";
+
+  text-decoration: none;
+
+}
+
+.menu li a:hover {
+
+  color: #CE7D35;
+
+  transition: all .10s;
+
+}
+
+.link{
+  background: linear-gradient(#582b00,#a66323);
+  border-radius:10px;
+}
+
+.vista ul {
+
+  list-style: none;
+
+  padding: 0;
+
+}
+
+.img{
+  margin-left: 40px;
+  float: left;
+}
 
